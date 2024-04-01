@@ -22,11 +22,5 @@ Steps to follow:
 4) Select one instance of the process.
 5) Validate the performance:
    
-   ![image](https://github.com/shrutisawant6/performance-check/assets/140047758/e774702e-15bf-458b-afd1-a2d23da8efd7)
-3) Enter the process name:
-   
-   ![image](https://github.com/shrutisawant6/performance-check/assets/140047758/26f1b6dc-1b09-458b-ac59-9c35b4d7bedf)
-4) Select one instance of the process.
-5) Validate the performance:
-   
-   ![image](https://github.com/shrutisawant6/performance-check/assets/140047758/e774702e-15bf-458b-afd1-a2d23da8efd7)
+   ![image](https://github.com/shrutisawant6/performance-check-exe/assets/140047758/f2bf7190-add0-4f82-b83a-36a93a041142)
+
