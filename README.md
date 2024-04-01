@@ -5,6 +5,7 @@ We often find ourselves uncertain about whether a process within our operating s
 As a result, we tend to explore numerous tools, leading to a shaky conclusion.
 
 To address this, have created a simple executable that provides performance checks and resource utilization for a specific process. 
+And the best part is, you need **less than a minute to obtain the results !**
 
 Give it a try!
 Code reference: https://github.com/shrutisawant6/performance-check 
