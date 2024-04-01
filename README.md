@@ -16,12 +16,13 @@ Steps to follow:
    ![image](https://github.com/shrutisawant6/performance-check-exe/assets/140047758/702d6f59-3ca7-43ed-be01-92742b3848b7)
 2) If not sure of the process name, select 1 to view all the processes:
    
-   ![image](https://github.com/shrutisawant6/performance-check-exe/assets/140047758/376bb313-94f2-4e5e-b2ce-1f6b1e2f6e2e)
+   ![image](https://github.com/shrutisawant6/performance-check-exe/assets/140047758/640e7b57-f048-4e7c-9461-e3b7e83d6480)
 3) Enter the process name:
    
-   ![image](https://github.com/shrutisawant6/performance-check-exe/assets/140047758/908ddf2a-9eec-459c-93d9-24637cf7b155)
+   ![image](https://github.com/shrutisawant6/performance-check-exe/assets/140047758/74a44da2-34e6-4850-9168-6e0317b70802)
 4) Select one instance of the process.
 5) Validate the performance:
    
-   ![image](https://github.com/shrutisawant6/performance-check-exe/assets/140047758/f2bf7190-add0-4f82-b83a-36a93a041142)
+   ![image](https://github.com/shrutisawant6/performance-check-exe/assets/140047758/3806b344-3d4c-4e21-b58e-6ba67554dc15)
+
 
