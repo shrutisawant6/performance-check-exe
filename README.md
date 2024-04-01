@@ -13,7 +13,7 @@ Code reference: https://github.com/shrutisawant6/performance-check
 Steps to follow:
 1) Choose from these options:
    
-   ![image](https://github.com/shrutisawant6/performance-check/assets/140047758/2bf10d9e-de3b-433d-bc87-22eb0ae938ec)
+   ![image](https://github.com/shrutisawant6/performance-check-exe/assets/140047758/702d6f59-3ca7-43ed-be01-92742b3848b7)
 2) If not sure of the process name, select 1 to view all the processes:
    
    ![image](https://github.com/shrutisawant6/performance-check-exe/assets/140047758/376bb313-94f2-4e5e-b2ce-1f6b1e2f6e2e)
