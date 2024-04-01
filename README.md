@@ -18,7 +18,7 @@ Steps to follow:
    ![image](https://github.com/shrutisawant6/performance-check-exe/assets/140047758/71b1a0e7-0889-4a11-ac7a-948fd5c01a5b)
 3) Enter the process name:
    
-   ![image](https://github.com/shrutisawant6/performance-check/assets/140047758/26f1b6dc-1b09-458b-ac59-9c35b4d7bedf)
+   ![image](https://github.com/shrutisawant6/performance-check-exe/assets/140047758/1f6563a1-75c1-4bd6-a50c-9b19b31d00eb)
 4) Select one instance of the process.
 5) Validate the performance:
    
